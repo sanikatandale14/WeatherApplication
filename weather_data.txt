@@ -1,0 +1,8 @@
+Location: Ashta
+Date: Tue Apr 29 22:05:54 IST 2025
+Data: {"temperature":32.3,"weather_condition":"Cloudy","humidity":30,"windspeed":5.2,"location":"Ashta","time":"2025-04-29T22:00"}
+
+Location: Ashta
+Date: Tue Apr 29 22:05:57 IST 2025
+Data: {"temperature":32.3,"weather_condition":"Cloudy","humidity":30,"windspeed":5.2,"location":"Ashta","time":"2025-04-29T22:00"}
+
